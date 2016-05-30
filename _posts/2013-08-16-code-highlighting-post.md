@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title: Hobi
+excerpt: "Hobi saya menulis, saya sangat suka menulis mulai dari novel, cerpen dan fanfiction .Saya juga hobi menggambar dan ngedance , hobi yang membuat saya tidak tertekan dalam dunia perkuliahan "
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
@@ -62,10 +62,10 @@ end
     {% raw %}
     <nav class="pagination" role="navigation">
         {% if page.previous %}
-            <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+            <a href="http://sekyufriends.blogspot.co.id/search/label/SHINee%20FF" class="btn" title="{{ page.previous.title }}">Previous article</a>
         {% endif %}
         {% if page.next %}
-            <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+            <a href="http://sekyufriends.blogspot.co.id/search/label/SHINee%20FF" class="btn" title="{{ page.next.title }}">Next article</a>
         {% endif %}
     </nav><!-- /.pagination -->
     {% endraw %}
