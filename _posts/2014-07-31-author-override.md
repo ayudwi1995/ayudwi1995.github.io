@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Author Override"
-author: billy_rick
+title: "Tentang saya di UIN SUSKA"
+author: ayudwi1995
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "Saya seorang mahasiswa semester 6 jurusan sistem informasi di fakultas Sains dan Teknologi."
 tags: []
 ---
 
@@ -17,14 +17,14 @@ Start by modifying or creating a new `authors.yml` file in the `_data` folder an
 # Authors
 
 billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+  name: Ayu Dwi Septiana
+  web: 
+  email: ayuarta1995@gmail.com
+  bio: "Love your self"
   avatar: bio-photo-2.jpg
-  twitter: extravagantman
+  twitter: ayudwi95
   google:
-    plus: BillyRick
+    plus: vlorybieber16
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
