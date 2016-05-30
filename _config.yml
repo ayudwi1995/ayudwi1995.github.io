@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Ayu Dwi
+title:            Ayu Dwi Septiana
 locale:           en_US
 #url:              http://localhost:4000
 url:              http://ayudwi1995.github.io
@@ -27,32 +27,32 @@ kramdown:
 
 # Site owner
 owner:
-  name: Ayu Dwi
+  name: Ayu Dwi Septiana
   avatar: bio-photo.jpg
-  bio: "its me."
+  bio: "Love your Self"
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: ayudwi95 #username
+  facebook: facebook.com/astridadeliana #username
   google:
-    plus: kampar #username
+    plus: Oh Sehun #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: ayudwi1995 #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: instagram.com/ayudwi95#username
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  youtube: youtube.com/vlorybieber16#username
+  soundcloud: soundcloud.com/ayudwi1995#username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
